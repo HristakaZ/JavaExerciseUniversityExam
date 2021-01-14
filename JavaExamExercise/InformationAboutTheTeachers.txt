@@ -1,0 +1,3 @@
+Teacher's school: London School, Teacher's name and age: name: Tosho, age: 35, Teacher's dayHours: [2, 1, 0, 3, 0], Teacher's average day hours: 1
+Teacher's school: Cambridge School, Teacher's name and age: name: Pesho, age: 20, Teacher's dayHours: [50, 1, 2, 3, 4], Teacher's average day hours: 12
+Teacher's school: Oxford School, Teacher's name and age: name: Gosho, age: 25, Teacher's dayHours: [100, 0, 2, 0, 4], Teacher's average day hours: 21
